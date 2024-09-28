@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Aljolabs/ws101_react_todolist-legit-.git/static/css/main.8955cc8f.css",
+    "main.js": "/Aljolabs/ws101_react_todolist-legit-.git/static/js/main.2c162329.js",
+    "static/media/background.jpg": "/Aljolabs/ws101_react_todolist-legit-.git/static/media/background.53bb7c005a424c33efd4.jpg",
+    "static/media/mundo.png": "/Aljolabs/ws101_react_todolist-legit-.git/static/media/mundo.2fbcc0c09f011dba936b.png",
+    "static/media/isaapa.png": "/Aljolabs/ws101_react_todolist-legit-.git/static/media/isaapa.35f5b3ea0931969131d7.png",
+    "index.html": "/Aljolabs/ws101_react_todolist-legit-.git/index.html",
+    "main.8955cc8f.css.map": "/Aljolabs/ws101_react_todolist-legit-.git/static/css/main.8955cc8f.css.map",
+    "main.2c162329.js.map": "/Aljolabs/ws101_react_todolist-legit-.git/static/js/main.2c162329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8955cc8f.css",
+    "static/js/main.2c162329.js"
+  ]
+}
